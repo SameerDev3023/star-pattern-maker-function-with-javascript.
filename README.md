@@ -41,7 +41,7 @@ this repo create a all  star patterns with javascript function created by me
 
 
 
-  1 :- Rhombus
+  3 :- Rhombus
     
  
                  *            
@@ -61,7 +61,7 @@ this repo create a all  star patterns with javascript function created by me
 
 
 
-2 :-  Kite 
+4 :-  Kite 
 
             
                 *
@@ -91,7 +91,7 @@ this repo create a all  star patterns with javascript function created by me
 
 
 
-4:- Arrow 
+5 :- Arrow 
 
                 
                    *            
@@ -107,4 +107,22 @@ this repo create a all  star patterns with javascript function created by me
                    *               
                    *               
                    *            
+
+
+6 Rhombus Inside Empty
+
+
+         * * * * * *   * * * * * *
+         * * * * *       * * * * *
+         * * * *           * * * *
+         * * *               * * *
+         * *                   * *
+         *                       *
+                                 
+         *                       *
+         * *                   * *
+         * * *               * * *
+         * * * *           * * * *
+         * * * * *       * * * * *
+         * * * * * *   * * * * * *
 
