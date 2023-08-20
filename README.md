@@ -2,49 +2,9 @@
 this repo create a all  star patterns with javascript function created by me
 
 
-1) octagon-square                                   
-                                                  
-      * * * * * * * * * * * * *                                                                  
-      * *         *         * *
-      *   *       *       *   *
-      *     *     *     *     *
-      *       *   *   *       *
-      *         * * *         *
-      * * * * * * * * * * * * *
-      *         * * *         *
-      *       *   *   *       *
-      *     *     *     *     *
-      *   *       *       *   *
-      * *         *         * *
-      * * * * * * * * * * * * *
-
-
-
-2)    spider
-
-   
-      
-      *          *           *
-       *         *         *  
-         *       *       *    
-           *     *     *      
-             *   *   *        
-               * * *          
-      * * * * * * * * * * * * *
-               * * *          
-             *   *   *        
-           *     *     *      
-         *       *       *    
-       *         *         *  
-      *          *           *
-
-
-
-
-
-
-3 ) rhombus
-  
+  1 :- Rhombus
+    
+ 
                  *            
                * * *          
              * * * * *        
@@ -61,8 +21,8 @@ this repo create a all  star patterns with javascript function created by me
 
 
 
-4) Kite 
 
+2 :-  Kite 
 
             
                 *
@@ -75,8 +35,8 @@ this repo create a all  star patterns with javascript function created by me
         *       *       *    
     
       *         *         *  
-    
-    * * * * * * * * * * * * *
+      
+    * * * * * * * * * * * * *  
     
       *         *        *  
        *       *        *    
