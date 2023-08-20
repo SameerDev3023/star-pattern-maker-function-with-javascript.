@@ -22,6 +22,23 @@ this repo create a all  star patterns with javascript function created by me
 
 
 
+2 :-   Spider 
+
+
+         *          *           * 
+          *         *         *   
+            *       *       *     
+              *     *     *       
+                *   *   *         
+                  * * *           
+        * * * * * * * * * * * * * 
+                  * * *           
+                *   *   *         
+              *     *     *       
+            *       *       *     
+          *         *         *   
+        *           *           * 
+
 
 
   1 :- Rhombus
@@ -69,4 +86,25 @@ this repo create a all  star patterns with javascript function created by me
     
              * * *          
     
-               *            
+               *      
+
+
+
+
+4:- Arrow 
+
+                
+                   *            
+                 * * *          
+               *   *   *        
+             *     *     *      
+           *       *       *    
+         *         *         *  
+       * * * * * * * * * * * * *
+                   *            
+                   *                 
+                   *             
+                   *               
+                   *               
+                   *            
+
