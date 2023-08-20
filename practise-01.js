@@ -67,6 +67,31 @@ if(patterName=='star'){
             patternString += '\n';
         }
     } 
+    else if(patternShape =='plus'){
+        for(let i = 1 ; i<=Row;i++){
+            for(let j = 1 ; j<=Col;j++){
+                if (i%7==0 || j%7==0 ) {
+                    patternString += '* ';
+                } else {
+                    patternString += '  ';
+                }
+            }
+            patternString += '\n';
+        }
+    }
+    else if(patternShape =='spider'){
+        for(let i = 1 ; i<=Row;i++){
+            for(let j = 1 ; j<=Col;j++){
+                if (i%7==0 || j%7==0 || i==j || i-1==Col-j) {
+                    patternString += '* ';
+                } else {
+                    patternString += '  ';
+                }
+            }
+            patternString += '\n';
+        }
+    }
+    
     else if(patternShape =='arrow'){
         for (let i = 1; i <= Row; i++) {
             let patternString = '';
@@ -248,5 +273,5 @@ if(patterName=='star'){
 
 return patternString;
 }
-let output = PatternMaker('star','octagon-square',13,13)
+let output = PatternMaker('star','spider',13,13)
 console.log(output)
