@@ -18,6 +18,17 @@ Function Name Is PatternMaker();
 4) Fourth  parameter is required for Value of Column. You can set easily value of columns as per your choice.............
 
 
+                 ****************************** LIST OF SECOND PARAMETERS VALUES ****************************
+                      1) square/ default ,  2) right-pyramid  , 3) reverse-right-pyramid ,   4) left-pyramid
+
+                      5) pyramid  ,  6) octagon-square  , 7) cross  , 8) plus ,  9) spider  , 10) arrow 
+
+                      11) kite , 12) empty-square-rhombus , 13) empty-rhombus , 14) rhombus-inside-empty
+
+                      15) rhombus , 16 ) empty-square , 17 ) cross-empty-square, 18) tic-tac-toe , 19) diamond
+
+                     20) left-arrow , 21) right -arrow
+
 1 :- Octagon Square
 
 
