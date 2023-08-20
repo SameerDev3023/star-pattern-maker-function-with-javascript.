@@ -29,7 +29,7 @@ Function Name Is PatternMaker();
 
                       15) rhombus , 16 ) empty-square , 17 ) cross-empty-square, 18) tic-tac-toe , 19) diamond
 
-                     20) left-arrow , 21) right -arrow
+                      20) left-arrow , 21) right -arrow
 
 1 :- Octagon Square
 
