@@ -339,3 +339,42 @@ this repo create a all  star patterns with javascript function created by me
                    * * * * * * * * * * *
                   * * * * * * * * * * * *
                  * * * * * * * * * * * * *
+
+
+
+15  Cross Sign 
+
+
+                *                       * 
+                  *                   *   
+                    *               *     
+                      *           *       
+                        *       *         
+                          *   *           
+                            *             
+                          *   *           
+                        *       *         
+                      *           *       
+                    *               *     
+                  *                   *   
+                *                       * 
+
+
+16 Plus Sign 
+
+
+                            *             
+                            *             
+                            *             
+                            *             
+                            *             
+                            *             
+                * * * * * * * * * * * * * 
+                            *             
+                            *             
+                            *             
+                            *             
+                            *             
+                            * 
+
+
