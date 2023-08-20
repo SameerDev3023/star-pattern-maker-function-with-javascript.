@@ -19,6 +19,8 @@ Function Name Is PatternMaker();
 
 
                  ****************************** LIST OF SECOND PARAMETERS VALUES ****************************
+
+   
                       1) square/ default ,  2) right-pyramid  , 3) reverse-right-pyramid ,   4) left-pyramid
 
                       5) pyramid  ,  6) octagon-square  , 7) cross  , 8) plus ,  9) spider  , 10) arrow 
